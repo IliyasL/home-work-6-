@@ -1,0 +1,36 @@
+h1{
+    color: maroon;
+}
+p{
+    font-size: 32%;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-weight: 100;
+}
+.container{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin: 50px;
+    border: 2px;
+}
+img{
+   background-image: url('c:\Users\Asan\Downloads\загруженное.jpg');
+}
+.padding{
+    padding: 25px;
+}
+.margin{
+    margin: 30px;
+}
+.border{
+    border: 35px;
+}
+.overflow{
+    width: 200px; 
+    height: 300px;
+    overflow: scroll;
+}
