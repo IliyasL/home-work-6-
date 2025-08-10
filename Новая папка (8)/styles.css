@@ -1,0 +1,39 @@
+h1{
+    color: maroon;
+}
+p{
+    font-size: 32%;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-weight: 100;
+}
+.container{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin: 50px;
+    border: 2px;
+}
+.background-image {
+    background-image: url("https://avatars.mds.yandex.net/i?id=922dae47138a6505b8b2aea02eda9f39501ddf28-5231505-images-thumbs&n=13");
+    background-size: cover;
+    background-position: center;
+}
+
+.padding{
+    padding: 25px;
+}
+.margin{
+    margin: 30px;
+}
+.border{
+    border: 35px;
+}
+.overflow{
+    width: 200px; 
+    height: 300px;
+    overflow: scroll;
+}
